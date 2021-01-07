@@ -1,0 +1,24 @@
+{
+  "name": "crewmate",
+  "version": "0.1.0",
+  "description": "Among Us client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Among Us",
+    "client"
+  ],
+  "author": "Daemon",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaemonBeast/crewmate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaemonBeast/crewmate/issues"
+  },
+  "homepage": "https://github.com/DaemonBeast/crewmate#readme"
+}
